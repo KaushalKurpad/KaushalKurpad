@@ -74,9 +74,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KaushalKurpad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalKurpad&layout=compact" align="center" /> </div>
-
-<div align="center"><img src="https://lanyard.cnrad.dev/api/964662757888782366" align="center" /></div>
 
   
 
